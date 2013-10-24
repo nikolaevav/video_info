@@ -46,7 +46,7 @@ module VideoInfo
       end
 
       def thumbnail_large
-        _video_thumbnail(2)
+        _video_thumbnail(3)
       end
 
       def view_count
